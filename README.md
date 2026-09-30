@@ -79,24 +79,14 @@ The main objectives of this project are:
 7. Examine state-level sales performance.
 8. Present business insights through an interactive dashboard.
 
-## Author
-Shailesh Panchal
+## Dashboard Preview
 
-## 📷 Dashboard Preview
-
-![Superstore Dashboard](Screenshots/SuperStore-Dashboard.png)
+![Super Store Dashboard](./Super-Store-Dashboard.png)
 
 ## 📁 Project Structure
 
 ```text
 powerbi-superstore-sales-dashboard/
-│
-├── README.md
-├── PowerBI/
-│   └── SuperStore-Sales-Dashboard.pbix
-├── Dataset/
-│   └── SuperStore-Dataset.xlsx
-├── Screenshots/
-│   └── SuperStore-Dashboard.png
-└── Documentation/
-    └── Project-Overview.md
+
+## Author
+Shailesh Panchal
