@@ -83,10 +83,21 @@ The main objectives of this project are:
 
 ![Super Store Dashboard](./Super-Store-Dashboard.png)
 
-## 📁 Project Structure
-
-```text
-powerbi-superstore-sales-dashboard/
-
 ## Author
 Shailesh Panchal
+
+## 📁 Project Structure
+
+Super-Store-Analytics-Dashboard/
+│
+├── README.md
+│
+├── Dashboard/
+│   ├── Super-Store-Analytics-Dashboard.pbix
+│   └── Super-Store-Dashboard.png
+│
+├── Dataset/
+│   └── Super-Store-Dataset.xlsx
+│
+└── Screenshots/
+    └── Super-Store-Dashboard.png
